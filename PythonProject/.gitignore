@@ -1,0 +1,24 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente virtual
+venv/
+env/
+.env
+
+# Arquivos de dados
+*.csv
+*.xlsx
+*.xls
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo 
