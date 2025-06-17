@@ -1,4 +1,4 @@
-# Consumidor de API CoinGecko
+# Consumindo API CoinGecko
 
 Este projeto é um script Python que consome a API do CoinGecko para obter dados de criptomoedas, processa esses dados e os salva em formato CSV.
 
